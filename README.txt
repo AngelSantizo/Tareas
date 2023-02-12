@@ -18,3 +18,7 @@ dicha acción de colocar un mensaje en qué estación se encuentra.
 4. Cólocar mensaje con Nombre y Carné: En este caso una vez analisado y hecho el proceso adecuado para la evaluación
 del dato ingresado por el usuario, en las instrucciones se especificaba que al finalizar dicho programa, dejar un mensasje
 para identificar al estudiante con su número de carné. Por lo que se colocó un alert.
+
+Al momento de colocar yo este texto, realicé un commit para avisar que se realizó un cambio en este archivo de texto
+sin embargo, al yo guardar estee archivo con este parrafo extra, se realizará otro cambio, por lo que se debe hacer lo mismo
+previamente hecho.
